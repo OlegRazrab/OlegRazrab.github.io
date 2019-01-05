@@ -1,0 +1,29 @@
+{
+  "name": "web-game",
+  "version": "0.0.1",
+  "description": "Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/RazrabW/game.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Oleg Chernov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/RazrabW/game/issues"
+  },
+  "homepage": "https://gitlab.com/RazrabW/game#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
